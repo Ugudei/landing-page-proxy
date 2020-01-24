@@ -35,4 +35,6 @@ From within the root directory:
 ```sh
 npm install -g webpack
 npm install
+npm i jest
+npm i enzyme
 ``` 
