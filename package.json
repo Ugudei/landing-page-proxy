@@ -15,6 +15,10 @@
   "bugs": {
     "url": "https://github.com/FEC-ghrden02/landing-page/issues"
   },
-  "homepage": "https://github.com/FEC-ghrden02/landing-page#readme"
+  "homepage": "https://github.com/FEC-ghrden02/landing-page#readme",
+  "dependencies": {
+    "Babel": "0.0.1",
+    "enzyme": "^3.11.0",
+    "jest": "^25.1.0"
+  }
 }
-
